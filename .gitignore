@@ -1,0 +1,18 @@
+# delete build
+build/*
+
+#delete nib and swap file
+*~.nib
+*.swp
+
+# delete os x file attribute
+.DS_Store
+
+# delete xcode3 and xcode4 file
+*.model
+*.model1v3
+*.model2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+xcuserdata
