@@ -4,7 +4,7 @@
 //
 //  Created by caogen on 15/10/28.
 //  Copyright © 2015年 caogen. All rights reserved.
-//我命无双
+
 #import <Foundation/Foundation.h>
 
 @interface CGHtml : NSObject
